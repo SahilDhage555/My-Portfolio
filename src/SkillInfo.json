@@ -1,0 +1,37 @@
+[
+  {
+    "name": "React",
+    "image_url": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+    "website_link": "https://reactjs.org"
+  },
+  {
+    "name": "JavaScript",
+    "image_url": "https://imgs.search.brave.com/1dSdxU2GDlGcxnbNSj_iU83ak0hLBbK9e5btboQV8gI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk5L1Vub2ZmaWNp/YWxfSmF2YVNjcmlw/dF9sb2dvXzIuc3Zn",
+    "website_link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "HTML",
+    "image_url": "https://cdn.worldvectorlogo.com/logos/html-1.svg",
+    "website_link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  {
+    "name": "CSS",
+    "image_url": "https://imgs.search.brave.com/-27ZsFnmegLum4BSN9q0XeLC_eYMaslQ5CHgdLoLHa4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y295d29sZi5uZXdz/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzExL3B1cnBsZS1j/c3MtbG9nby53ZWJw",
+    "website_link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+  },
+  {
+    "name": "Bootstrap",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+    "website_link": "https://getbootstrap.com"
+  },
+  {
+    "name": "Node.js",
+    "image_url": "https://static.cdnlogo.com/logos/n/79/node-js.svg",
+    "website_link": "https://nodejs.org"
+  },
+  {
+    "name": "MongoDB",
+    "image_url": "https://imgs.search.brave.com/CspFmzb9ZvydkjKf58hr27yxfhWZi5ZpXhIf5Q2TmiA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2xvZ28tbW9u/Z29kYi1wbmctaHVu/ZHJlZHMtb2YtcG9w/dWxhci1tb25nb2Ri/LWFydGljbGVzLTQw/MC5wbmc",
+    "website_link": "https://www.mongodb.com"
+  }
+]
